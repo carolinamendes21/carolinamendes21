@@ -1,4 +1,4 @@
-## Olá 👋
+## Hi, my name is Carolina :)) 👋
 I am passionate about solving problems using programming.
 
 I'm Full Stack in the web development 💻
