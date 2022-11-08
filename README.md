@@ -1,18 +1,15 @@
-###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
+## Olá pessoal 👋
+I am passionate about solving problems using programming.
 
-```javascript
-const carolina  = {
-    SomeExperienceIn: ["C++, TypeScript, LUA, PHP, and React. Amongst other languages."],
-    askMeAbout:  {
-      achievements: ["Multi-language Programmer Amateur"],
-        },
-    technologies: {
-        databases: ["MySql","SQLite","MariaDB"]
-    },
-    currentProjects: "None",
-};
+I'm Full Stack in the web development 💻
 
-```
+  📚 &nbsp; I have fun while learning to program
+ <br/> :purple_heart: &nbsp; Seeking to collaborate projects.
+ 
+- Thanks for visiting. 
+
+- Enjoy it!! o/
+
 ##
 
 ### Languages and Tools
