@@ -15,11 +15,11 @@ I'm Front-end in the web development 💻
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/carolinamendes21">
-      <img src="https://github-readme-stats.vercel.app/api/?username=carolinamendes21&title_color=cf75ff&text_color=cf75ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=78d2ff&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=carolinamendes21&title_color=94cdff&text_color=c494ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=94cdff&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/carolinamendes21">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=carolinamendes21&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=e6f6ff&text_color=cf75ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=e6f6ff&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=carolinamendes21&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=78d2ff&text_color=c494ff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=c494ff&hide_title=true&count_private=true&enable_animations=true" />
     </td>
   </tr>
 </p>
