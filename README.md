@@ -6,9 +6,14 @@ I'm Front-end in the web development 💻
   📚 &nbsp; I have fun while learning to program
  <br/> :purple_heart: &nbsp; Seeking to collaborate projects.
  
-- Thanks for visiting. 
+ - Thanks for visiting. 
 
 - Enjoy it!! o/
+- Portfolio Bellow (Just click in Image)
+   <tr>
+<a href="https://github.com/carolinamendes21">
+ <img src="https://cdn.discordapp.com/attachments/1040846974485790750/1041968892651765841/3b4603cb4d56dca50bcae21a5da569c7.jpg" />
+  </td>
 
 ##
   <p align="center">
